@@ -1,0 +1,9 @@
+<svg id="icon_24:_cart_white" data-name="icon 24: cart white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="24" height="24" fill="none"/>
+  <g id="Group_24" data-name="Group 24" transform="translate(1.737 1.732)">
+    <path id="Path_3" data-name="Path 3" d="M20.523,8.65a2.214,2.214,0,0,0-2.211-2.211h-.685l-2.1-5.075a2.211,2.211,0,1,0-4.086,1.693l1.4,3.382H7.683l1.4-3.382A2.211,2.211,0,1,0,5,1.365L2.9,6.439H2.211A2.211,2.211,0,0,0,1.676,10.8L2.691,18.4a2.5,2.5,0,0,0,2.419,2.118h10.3A2.5,2.5,0,0,0,17.832,18.4L18.847,10.8A2.215,2.215,0,0,0,20.523,8.65ZM12.55,2.6a1.009,1.009,0,1,1,1.864-.772l1.911,4.614H14.141ZM6.109,1.825A1.009,1.009,0,1,1,7.973,2.6L6.381,6.439H4.2ZM16.64,18.245a1.29,1.29,0,0,1-1.227,1.074H5.109a1.29,1.29,0,0,1-1.227-1.074L2.9,10.862H17.625Zm1.671-8.586H2.211a1.009,1.009,0,1,1,0-2.017h16.1a1.009,1.009,0,1,1,0,2.017Zm0,0" transform="translate(0 0)" fill="#fff" stroke="#fff" stroke-width="0.1"/>
+    <path id="Path_4" data-name="Path 4" d="M65.118,176.5v0Z" transform="translate(-58.737 -163.887)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_5" data-name="Path 5" d="M65.118,176.5v0Z" transform="translate(-54.737 -163.887)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_6" data-name="Path 6" d="M65.118,176.5v0Z" transform="translate(-50.737 -163.887)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
